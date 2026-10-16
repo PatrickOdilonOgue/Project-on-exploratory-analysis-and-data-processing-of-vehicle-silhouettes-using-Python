@@ -1,4 +1,4 @@
-# -automotive-data-analysis-Python-
+# Project on exploratory analysis and data processing of vehicle silhouettes using Python.
 
 Prospect Auto – Unsupervised Learning Approach
 This project explores the application of unsupervised learning techniques to automatically identify and group vehicles based on their geometric features. Utilizing a dataset of vehicle silhouettes and 18 extracted geometric attributes, the goal is to discover natural clusters within the data without relying on predefined class labels like 'Bus', 'Car', or 'Van'.
